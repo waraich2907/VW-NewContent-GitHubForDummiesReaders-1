@@ -63,3 +63,4 @@ Table
 | @SB1501                      | I'm learning GitHub and actually getting results for once from this book!    |
 | @ruairiodonohoe              | Yet another Test!                                                            |
 | @John-8-12                   | I'm learning about computers and programming this Christmas |
+| @VW                          | Great Learning Book - Github for Dummies                                      |
